@@ -90,5 +90,5 @@ it can remove the oldest key despite us not wanting to.
 ## BTW USING MAPS IS SIMPLER
 because map already handle keys and value.
 
--# ps it's was just for fun btw (;
+ps it's was just for fun btw (;
 
