@@ -80,6 +80,7 @@ myCache.put("key","value")
 /** @param{{key: string}} param*/
 // acces the reference
 myCache.get("key")
+// then you can do whatever you want with it 
 ```
 
 ## Limitation 
@@ -89,5 +90,5 @@ it can remove the oldest key despite us not wanting to.
 ## BTW USING MAPS IS SIMPLER
 because map already handle keys and value.
 
-
+-# ps it's was just for fun btw (;
 
